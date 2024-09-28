@@ -1,0 +1,32 @@
+
+.box {
+    width: 240px;
+    height: 240px;
+    border: 10px solid black;
+    border-radius: 15%;
+    margin: 0.4rem;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.flashWhite {
+    background-color: white;;
+}
+.gameOver {
+    background-color: red;
+}
